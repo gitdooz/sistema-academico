@@ -1,0 +1,19 @@
+{
+  "name": "sistema-academico",
+  "version": "1.0.0",
+  "description": "Sistema acadêmico construído em JavaScript e testado em Jest",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node --watch index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
