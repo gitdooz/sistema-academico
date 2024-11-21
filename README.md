@@ -1,7 +1,6 @@
 # Sistema Acadêmico
 Alunos:<br>
-[Osmar Pereira de Menezes](https://www.linkedin.com/in/osmar-menezes-8b8297246/),<br>
-[Matheus José Dantas](https://www.linkedin.com/in/matheusjdantas/),<br>
+[Osmar Pereira de Menezes](https://www.linkedin.com/in/osmar-menezes-8b8297246/), [Matheus José Dantas](https://www.linkedin.com/in/matheusjdantas/),<br>
 [Marcos Vinícius Nunes](https://www.linkedin.com/in/marcos-vinícius-83284526b/).<br>
 Centro Universitário Tiradentes - UNIT PE<br>
 Profª Rafaella Chrystiane de Moura Matos - Turma E03 
