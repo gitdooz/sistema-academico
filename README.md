@@ -1,5 +1,8 @@
 # Sistema Acadêmico
-Alunos: Osmar Pereira de Menezes, Matheus José Dantas, Marcos Vinícius Nunes
+Alunos:
+[Osmar Pereira de Menezes](https://www.linkedin.com/in/osmar-menezes-8b8297246/)
+[Matheus José Dantas](https://www.linkedin.com/in/matheusjdantas/)
+[Marcos Vinícius Nunes](https://www.linkedin.com/in/marcos-vinícius-83284526b/)
 
 ![image](https://github.com/user-attachments/assets/8ea5c14c-f9fe-44d8-ba2a-b97817da453b)
 
