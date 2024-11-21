@@ -33,14 +33,14 @@ O projeto é dividido em três módulos:
      - **Média >= 6.0**: "Aprovado por média".  
      - **Média entre 4.0 e 6.0 (inclusivo 4.0 e exclusivo 6.0)**: "Aguardando a final".  
    - Retorna o status em uma mensagem formatada.
-
----
-
+  
 ## Tecnologias Utilizadas
 
 - **Node.js**: Ambiente de execução.  
 - **Jest**: Framework de testes automatizados.  
 - **GitHub Actions**: Configuração de CI para testes automatizados.
+
+---
 
 ## Como exectuar os testes
 
