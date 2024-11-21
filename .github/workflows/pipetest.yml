@@ -19,10 +19,13 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '22.11.0'
+          node-version: '20.x'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
+
+      - name: Fix Jest permissions
+        run: chmod +x ./node_modules/.bin/jest
 
       - name: Run tests
-        run: npm test
+        run: npx jest
