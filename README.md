@@ -1,5 +1,7 @@
 # Sistema Acadêmico
 Alunos: Osmar Pereira de Menezes, Matheus José Dantas, Marcos Vinícius Nunes
+![image](https://github.com/user-attachments/assets/7f43c8f6-1966-4caf-9942-77d12c5d4a50)
+
 ## Descrição do Projeto
 
 Este é um exercício prático de desenvolvimento colaborativo que simula um ambiente real de trabalho utilizando práticas ágeis como TDD (Test-Driven Development), Code Review e CI (Continuous Integration). O objetivo principal é desenvolver um **Sistema Acadêmico** básico, composto por três módulos interdependentes, com validação rigorosa de entradas, testes automatizados e integração contínua configurada via **GitHub Actions**.
@@ -39,5 +41,4 @@ O projeto é dividido em três módulos:
 - **Jest**: Framework de testes automatizados.  
 - **GitHub Actions**: Configuração de CI para testes automatizados.
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+
