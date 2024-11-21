@@ -42,4 +42,9 @@ O projeto é dividido em três módulos:
 - **Jest**: Framework de testes automatizados.  
 - **GitHub Actions**: Configuração de CI para testes automatizados.
 
+##Como exectuar os testes
+
+**Pré-requisitos**
+- Node.js: Certifique-se de que o Node.js está instalado em sua máquina. Você pode baixá-lo em nodejs.org.
+
 
