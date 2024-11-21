@@ -83,3 +83,5 @@ Embora o Jest funcione automaticamente na maioria das configurações, você pod
      npm test
      ```
 
+Centro Universitário Tiradentes - UNIT PE
+Profª Rafaella Chrystiane de Moura Matos - Turma E03
