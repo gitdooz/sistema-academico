@@ -5,7 +5,7 @@ Alunos: Osmar Pereira de Menezes, Matheus José Dantas, Marcos Vinícius Nunes
 
 ## Descrição do Projeto
 
-Este é um exercício prático de desenvolvimento colaborativo que simula um ambiente real de trabalho utilizando práticas ágeis como TDD (Test-Driven Development), Code Review e CI (Continuous Integration). O objetivo principal é desenvolver um **Sistema Acadêmico** básico, composto por três módulos interdependentes, com validação rigorosa de entradas, testes automatizados e integração contínua configurada via **GitHub Actions**.
+Este é um exercício prático de desenvolvimento colaborativo que simula um ambiente real de trabalho utilizando práticas ágeis como *TDD* (*Test-Driven Development*), *Code Review* e *CI* (*Continuous Integration*). O objetivo principal é desenvolver um **Sistema Acadêmico** básico, composto por três módulos interdependentes, com validação rigorosa de entradas, testes automatizados e integração contínua configurada via **GitHub Actions**.
 
 ---
 
