@@ -42,9 +42,26 @@ O projeto é dividido em três módulos:
 - **Jest**: Framework de testes automatizados.  
 - **GitHub Actions**: Configuração de CI para testes automatizados.
 
-##Como exectuar os testes
+## Como exectuar os testes
 
 **Pré-requisitos**
 - Node.js: Certifique-se de que o Node.js está instalado em sua máquina. Você pode baixá-lo em nodejs.org.
 
+**Passo a passo**
+1. Clone o seu repositório
+     ```text
+     git clone <url-do-repositório>
+     ```
+2. Navegue até o repositório do projeto
+     ```text
+    cd <caminho-para-diretório>
+     ```
+3. Instale as dependências do projeto
+     ```text
+     npm install
+     ```
+4. Execute os testes no JavaScript Debug Terminal
+     ```text
+     npm test
+     ```
 
