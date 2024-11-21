@@ -1,6 +1,6 @@
 # Sistema Acadêmico
 Alunos: Osmar Pereira de Menezes, Matheus José Dantas, Marcos Vinícius Nunes
-![image](https://github.com/user-attachments/assets/144dffaa-9651-48aa-a3b7-85599b2fb2d4)
+![image](https://github.com/user-attachments/assets/c4370f73-6ce3-4ad2-9fa1-eecfbff532af)
 
 ## Descrição do Projeto
 
