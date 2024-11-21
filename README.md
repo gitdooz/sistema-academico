@@ -47,6 +47,24 @@ O projeto é dividido em três módulos:
 **Pré-requisitos**
 - Node.js: Certifique-se de que o Node.js está instalado em sua máquina. Você pode baixá-lo em nodejs.org.
 
+1. Instalar o Jest
+Se ainda não instalou o Jest, siga as etapas abaixo:
+
+- No terminal, navegue até o diretório do seu projeto.
+- Instale o Jest com o comando:
+```text
+npm install --save-dev jest
+```
+2. Configurar o JSON
+Embora o Jest funcione automaticamente na maioria das configurações, você pode configurar algumas opções no package.json:
+
+- Adicione um script para rodar tests:
+```text
+"scripts": {
+  "test": "jest"
+}
+```
+
 **Passo a passo**
 1. Clone o seu repositório
      ```text
